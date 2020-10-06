@@ -1,4 +1,5 @@
 # README
+For contributing to Hacktoberfest, please read the guidelines mentioned in the ContributingGuidelines.md.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.

@@ -11,8 +11,6 @@ To get the Rails server running locally:
 - `rake db:migrate` to make all database migrations
 - `rails s` to start the local server
 
-## Code Overview
-
 ## Contributing
 
 Pull requests and issues are welcome.

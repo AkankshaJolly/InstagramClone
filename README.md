@@ -7,7 +7,7 @@ This project runs on ruby 2.7.4
 To get the Rails server running locally:
 
 - Clone this repo
-- `bundle install` to install all req'd dependencies
+- `bundle install` to install all requiredd dependencies
 - `rake db:migrate` to make all database migrations
 - `rails s` to start the local server
 

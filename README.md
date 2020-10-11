@@ -1,25 +1,21 @@
-# README
-For contributing to Hacktoberfest, please read the guidelines mentioned in the ContributingGuidelines.md.
+# InstagramClone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project runs on ruby 2.7.4
 
-Things you may want to cover:
+### Getting started
 
-* Ruby version
+To get the Rails server running locally:
 
-* System dependencies
+- Clone this repo
+- `bundle install` to install all requiredd dependencies
+- `rake db:migrate` to make all database migrations
+- `rails s` to start the local server
 
-* Configuration
+## Contributing
 
-* Database creation
+Pull requests and issues are welcome.
 
-* Database initialization
+See [CONTRIBUTING](ContributingGuidelines.md).
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+No license
